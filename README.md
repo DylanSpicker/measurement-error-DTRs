@@ -1,4 +1,5 @@
 **Author:** Dylan Spicker (dylan.spicker@uwaterloo.ca)
+
 **Article:** Measurement error and precision medicine: error-prone tailoring covariates in dynamic treatment regimes.
 
 The enclosed files demonstrate the implementation of the Dynamic WOLS (dWOLS) method for estimating optimal dynamic treatment regimens, in the presence of non-differential measurement error. In particular, simulation results and sensitivity analyses are included showcasing the methods across a wide variety of single- and multi-stage DTRs.
